@@ -1,0 +1,22 @@
+//utilities
+@import './utilities/variables.scss';
+
+//base
+@import './base/reset.scss';
+
+//components
+@import './components/button.scss';
+@import './components/form.scss';
+@import './components/loandetails.scss';
+@import './components/loans.scss';
+@import './components/dashboard.scss';
+
+
+//Pages
+@import './pages/home.scss';
+@import './pages/login.scss';
+@import './pages/signup.scss';
+
+
+//assets
+@import './assets/homeSvg.scss';
